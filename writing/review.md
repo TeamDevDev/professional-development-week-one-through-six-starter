@@ -145,8 +145,8 @@ effectively teach it to others.
 
 ### Restatement of Learning Objective
 
-- SE-3: Can effectively create and use software engineering tools that support
-software engineering activities like testing and debugging.
+TODO: Make sure to re-state one of the learning objectives, using the correct
+notation for its label as provided in the syllabus.
 
 ### Assessment of Your Attainment of the Learning Objective
 
