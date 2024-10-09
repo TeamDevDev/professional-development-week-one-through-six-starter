@@ -221,7 +221,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-### Write three sentences that summarize your overall experience in the software engineering course this module. What do you think that we should keep doing? What do you think that we should stop doing? What suggestion can you offer for a task that we can start doing to improve the next module of the course?
+### Write three sentences that summarize your overall experience in the software engineering course for this module. What do you think that we should keep doing? What do you think that we should stop doing? What suggestion can you offer for a task that we can start doing to improve the next module of the course?
 
 #### Sentence One: Answer the question `What do you think that we should keep doing? Why?`
 
