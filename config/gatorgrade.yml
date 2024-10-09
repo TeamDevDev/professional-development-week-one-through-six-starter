@@ -35,7 +35,7 @@
     - description: Write a minimum number of meaningful words in the review document
       check: CountFileWords
       options:
-        count: 500
+        count: 1000
         exact: false
     - description: Confirm that the markdown file has at least a minimum number of headers
       check: CountMarkdownTags
